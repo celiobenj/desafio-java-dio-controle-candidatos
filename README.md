@@ -7,3 +7,7 @@ O enunciado de cada caso se encontra no README.md de seu respectivo diretório.
 * [Caso 1](/src/candidatura/caso1)
 
 * [Caso 2](/src/candidatura/caso2)
+
+* [Caso 3](/src/candidatura/caso3)
+
+* [Caso 4](/src/candidatura/caso4)

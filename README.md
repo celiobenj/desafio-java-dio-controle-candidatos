@@ -1,18 +1,9 @@
-## Getting Started
+## Projeto DIO Java Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste projeto, devo fazer alguns cenários com casos de fluxo condicional, de repetição e de exceção.
 
-## Folder Structure
+O enunciado de cada caso se encontra no README.md de seu respectivo diretório.
 
-The workspace contains two folders by default, where:
+* [Caso 1](\src\candidatura\caso1)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* [Caso 2](\src\candidatura\caso2)

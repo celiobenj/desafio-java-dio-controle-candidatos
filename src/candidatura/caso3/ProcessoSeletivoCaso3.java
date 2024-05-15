@@ -1,8 +1,8 @@
-package candidatura.caso2;
+package candidatura.caso3;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class ProcessoSeletivoCaso2 {
+public class ProcessoSeletivoCaso3 {
     public static void main(String[] args) {
 
         String[] candidatos = { "FELIPE", "MÁRCIA", "JULIA", "PAULO", "AUGUSTO", "MÔNICA", "FABRÍCIO", "MIRELA", "DANIELA", "JORGE" };
@@ -33,6 +33,6 @@ public class ProcessoSeletivoCaso2 {
 
     // Método que simula o valor pretendido
     static double valorPretendido() {
-        return ThreadLocalRandom.current().nextDouble(1900, 2300);
+        return ThreadLocalRandom.current().nextDouble(1800, 2200);
     }
 }
